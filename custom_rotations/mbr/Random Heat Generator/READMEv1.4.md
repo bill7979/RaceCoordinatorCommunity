@@ -1,4 +1,7 @@
 RandomRotationGenerator
+
+NOTE: IF YOU GENERATE MULTIPLE ROTATIONS, YOU DO NOT NEED TO ADD ROTATIONS IN THE RC RACE SETUP AS IT WILL JUST RUN THE EXTRA ROTATIONS.
+
 Quick Start Guide
 
 RandomRotationGenerator creates balanced race heat schedules and validates them for correctness.
@@ -97,5 +100,6 @@ Drivers are indexed starting at 0 in the output file
   ]
 }
 💡 Tip
+
 
 If running large events, generate schedules in Range Mode first, then validate the entire folder to confirm all files pass.
